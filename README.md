@@ -65,7 +65,7 @@ This is a repo for hosting the Web Weaver project on hotel chains.
             <input type="submit" value="Submit"><br>
             <input type="checkbox" checked="checked"> Remember me   
             <button type="button" class="cancelbtn"> Cancel</button>   
-            Forgot <a href="https://github.com/AtharvJosh/WebWeaver"> password? </a>   
+            Forgot <a href="http://mediocritics.com"> password? </a>   
         </div>
     </form>
 </body>
